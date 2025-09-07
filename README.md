@@ -72,7 +72,3 @@ This project is open source under the MIT License.
 
 ---
 
-You can copy-paste this directly into your `README.md` file.
-
-If you want, I can help with the `.gitignore` or instructions on pushing this to GitHub!
-
